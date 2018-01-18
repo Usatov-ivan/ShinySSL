@@ -1,0 +1,26 @@
+Package: ShinySSL
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("Ivan", "Usatov", email = "usatov.ivan.alex@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.2)
+Imports:
+  leaflet (>= 1.0.1),
+  lattice (>= 0.20.34),
+  dplyr (>= 0.5.0),
+  DT (>= 0.2),
+  dygraphs (>= 1.1.1.4),
+  shiny (>= 1.0.0),
+  ggmap (>= 2.6.1),
+  maptools (>= 0.8.41),
+  maps (>= 3.1.1),
+  mapdata (>= 2.2.6),
+  RSQLite (>= 1.1.2),
+  sp (>= 1.2.4),  
+  ggplot2 (>= 2.1.0).
+
+License:  GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat

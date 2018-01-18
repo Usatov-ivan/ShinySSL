@@ -1,0 +1,2 @@
+# honey 0.1
+* first public release of the package :)
